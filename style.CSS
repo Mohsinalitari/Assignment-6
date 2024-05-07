@@ -1,0 +1,30 @@
+body
+   {background-color: gainsboro;
+    align-items: start;
+    gap: 30%
+    }
+#decktop
+    {color: rgb(130,150,140)
+        }
+#NORDIC
+        {background-color:white;
+            align:center;
+        }
+#BLOG
+        {
+            background-color: white;
+            marign-left;20px ;
+            align;center;
+         }
+#what    
+{
+    background-color: white;
+    marign-left;20px ;
+    align;center;
+ } 
+#About 
+        {
+            background-color: white;
+        }
+ 
+
